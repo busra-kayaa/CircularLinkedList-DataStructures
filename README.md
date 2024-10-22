@@ -1,0 +1,1 @@
+"This repository contains a C implementation of a singly circular linked list for the Data Structures course. It supports operations like insertion, deletion, searching, and displaying nodes in the list."
