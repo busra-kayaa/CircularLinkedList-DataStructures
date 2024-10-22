@@ -1,0 +1,7 @@
+Mehmet Demir 25 10000
+Ali Dereli 40 25000
+Serdar Keser 24 20000
+Ayse Tunali 32 32000
+Fatma Arslan 28 24000
+Melike Sert 25 12500
+Deniz Gedik 25 12500
